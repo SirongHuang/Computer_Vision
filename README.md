@@ -1,6 +1,6 @@
 # Computer_Vision
 
-[Notebook](https://github.com/SirongHuang/Computer_Vision/blob/master/exercise4/exercise4.ipynb) [[Notebook](https://github.com/SirongHuang/Computer_Vision/blob/master/exercise4/exercise4.ipynb) ]
+[Notebook 1](https://github.com/SirongHuang/Computer_Vision/blob/master/exercise4/exercise4.ipynb) [2](https://github.com/SirongHuang/Computer_Vision/blob/master/exercise4/exercise4.ipynb)
 - Feature detection using Harris corner, SIFT, SURF
 - Feature matching using NNC(normalised cross-correlation), NNDR(nearest neighbor distance ratio)
 - Large scale Object Instance Recognition 
@@ -18,7 +18,7 @@
 [Notebook 12] ()
 Image classification with Neural Network
 
-[Notebook](https://github.com/SirongHuang/Computer_Vision/blob/master/exercise5/Exercise5.ipynb)[Notebook](https://github.com/SirongHuang/Computer_Vision/blob/master/exercise6/exercise6.ipynb)
+Notebook [1](https://github.com/SirongHuang/Computer_Vision/blob/master/exercise5/Exercise5.ipynb)[2](https://github.com/SirongHuang/Computer_Vision/blob/master/exercise6/exercise6.ipynb)
 - Line detection and fitting using RANSAC and Hough transformatio
 - Panoramic Image Stiching
 
