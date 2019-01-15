@@ -18,7 +18,7 @@
 [Notebook 12] ()
 Image classification with Neural Network
 
-Notebook [1](https://github.com/SirongHuang/Computer_Vision/blob/master/exercise5/Exercise5.ipynb)[2](https://github.com/SirongHuang/Computer_Vision/blob/master/exercise6/exercise6.ipynb)
+Notebook [1](https://github.com/SirongHuang/Computer_Vision/blob/master/exercise5/Exercise5.ipynb) ・ [2](https://github.com/SirongHuang/Computer_Vision/blob/master/exercise6/exercise6.ipynb)
 - Line detection and fitting using RANSAC and Hough transformatio
 - Panoramic Image Stiching
 
