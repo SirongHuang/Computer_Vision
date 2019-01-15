@@ -18,7 +18,6 @@ Notebook   ・ [1](https://github.com/SirongHuang/Computer_Vision/blob/master/ex
 
 Notebook  ・   [1](https://github.com/SirongHuang/Computer_Vision/blob/master/exercise12/ExerciseRound12.ipynb)
 - Image classification with Neural Network
-
 - Face tracking with KLT tracker
 
 Use an environment with the following opencv versions to avoid SIFT patent issue in later versions:
