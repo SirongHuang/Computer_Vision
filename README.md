@@ -9,16 +9,16 @@ Notebook  ・  [1](https://github.com/SirongHuang/Computer_Vision/blob/master/ex
 [Source codes](https://github.com/SirongHuang/Computer_Vision/tree/master/exercise8)
 - Face tracking with KLT tracker
 
-Notebook  [1](https://github.com/SirongHuang/Computer_Vision/blob/master/exercise9/exercise9.ipynb) ・ [2](https://github.com/SirongHuang/Computer_Vision/blob/master/exercise10/exercise10.ipynb) ・ [3](https://github.com/SirongHuang/Computer_Vision/blob/master/exercise11/ExerciseRound11.ipynb) ・ [4](https://github.com/SirongHuang/Computer_Vision/blob/master/exercise11/SfMfrom2viewsDemo.ipynb) 
+Notebook   ・ [1](https://github.com/SirongHuang/Computer_Vision/blob/master/exercise9/exercise9.ipynb) ・ [2](https://github.com/SirongHuang/Computer_Vision/blob/master/exercise10/exercise10.ipynb) ・ [3](https://github.com/SirongHuang/Computer_Vision/blob/master/exercise11/ExerciseRound11.ipynb) ・ [4](https://github.com/SirongHuang/Computer_Vision/blob/master/exercise11/SfMfrom2viewsDemo.ipynb) 
 - Camera calibration
 - Stereo matching
 - 3D reconstruction
 - Structure from motion
 
-Notebook  [1](https://github.com/SirongHuang/Computer_Vision/blob/master/exercise12/ExerciseRound12.ipynb)
-Image classification with Neural Network
+Notebook  ・   [1](https://github.com/SirongHuang/Computer_Vision/blob/master/exercise12/ExerciseRound12.ipynb)
+- Image classification with Neural Network
 
-Notebook  [1](https://github.com/SirongHuang/Computer_Vision/blob/master/exercise5/Exercise5.ipynb) ・ [2](https://github.com/SirongHuang/Computer_Vision/blob/master/exercise6/exercise6.ipynb)
+Notebook  ・  [1](https://github.com/SirongHuang/Computer_Vision/blob/master/exercise5/Exercise5.ipynb) ・ [2](https://github.com/SirongHuang/Computer_Vision/blob/master/exercise6/exercise6.ipynb)
 - Line detection and fitting using RANSAC and Hough transformatio
 - Panoramic Image Stiching
 
